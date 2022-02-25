@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    text-align: center;
+    margin: 0;
+    background-color: black;
+}
+
+.container-geral{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    border-radius: 40px;
+}
+
+#titulo-principal{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+#img{
+    border-radius: 10%;
+    box-shadow: 8px 4px 10px black;
+}
+
+.descricao{
+    line-height: 30px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 0px 5px 20px black;
+    padding: 10px;
+    line-height: 35px;
+
+}
+
+.habilidades{
+    background-color: #242c44;
+    padding: 20px;
+    color: white;
+    
+}
+
+ul, ol{
+    list-style: none;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+#ha{
+    line-height: 40px;
+}
+
+.redes-c{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 20px;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.redes a{
+    margin-right: 20px;
+}
+
+.icone{
+    width: 20px;
+    margin-right: 10px;
+
+}
+
+.footer{
+    background-color: #818181;
+    padding: 20px;
+    line-height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0px 0px 40px 40px;
+    
+
+    
+}
+
+
