@@ -10,7 +10,7 @@ body{
 }
 
 .container-geral{
-    background-color: white;
+    background-color: rgb(235, 233, 233);
     width: 80%;
     margin: auto;
     border-radius: 40px;
@@ -20,7 +20,7 @@ body{
     height: 450px;
     position: relative;
     
-    margin: 50px;
+    
     
 }
 
@@ -36,7 +36,8 @@ body{
     border-radius: 10%;
     box-shadow: 8px 4px 10px black;
     float: left;
-    margin-left: 50px;
+    margin-left: 55px;
+    
     
     
 }
@@ -46,8 +47,12 @@ body{
     font-size: 20px;
     font-family: 'Josefin Sans', sans-serif;
     text-shadow: 0px 5px 20px black;    
-    margin-top: 125px;
-    text-align: center;
+    position: absolute;
+    left: 500px;
+    top: 15%;
+    
+    
+    
 }
 
 
